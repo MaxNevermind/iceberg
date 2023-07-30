@@ -1,6 +1,6 @@
 [versions]
 activation = "1.1.1"
-aliyun-sdk-oss = "3.17.0"
+aliyun-sdk-oss = "3.17.1"
 antlr = "4.13.0"
 aircompressor = "0.25"
 arrow = "12.0.1"
