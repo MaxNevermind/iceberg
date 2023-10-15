@@ -19,7 +19,7 @@ flink115 = { strictly = "[1.15, 1.16[", prefer = "1.15.0"}
 flink116 = { strictly = "[1.16, 1.17[", prefer = "1.16.2"}
 flink117 = { strictly = "[1.17, 1.18[", prefer = "1.17.1"}
 google-cloud-nio = "0.123.17"
-google-libraries-bom = "24.1.0"
+google-libraries-bom = "26.25.0"
 guava = "32.1.1-jre"
 hadoop2 = "3.3.6"
 hadoop3-client = "3.3.6"
